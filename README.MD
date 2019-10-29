@@ -6,7 +6,7 @@ This is a tutorial for switching context in Appium / Python.
 <br><br>
 
 Install <br>
-git remote add origin https://github.com/ivantay2003/AppiumPyContext.git
+git remote add origin git@github.com:username/AppiumPyContext.git
 
 <br><br>
 
