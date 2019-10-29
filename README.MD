@@ -19,8 +19,8 @@ Setup comprehesive guide for MacOS . It can be used for Windows too. [Link](http
 
 <br>
 Install Python Client for Appium instructions [here](https://pypi.org/project/Appium-Python-Client/) 
-[Link](https://medium.com/@ivantay2003/setting-up-appium-in-os-x-ecd9e7108a9c)
-<br><br>
+
+<br>
 Read up how to switch context in [here](http://appium.io/docs/en/commands/context/set-context/)
 
 <br><br><br><br>
