@@ -24,4 +24,4 @@ Install Python Client for Appium instructions [here](https://pypi.org/project/Ap
 Read up how to switch context in [here](http://appium.io/docs/en/commands/context/set-context/)
 
 <br><br><br><br>
-I can be contacted by [Linkedin](http://www.linkedln.ivantay.org) or Skype : *tay.phones*
+I can be contacted by [Linkedin](https://www.linkedin.com/in/ivantay/) or Skype : *tay.phones*
